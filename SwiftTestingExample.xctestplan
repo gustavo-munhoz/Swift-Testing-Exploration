@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "F293F29C-FC0D-412A-AF78-C9CEF06487EB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftTestingExample.xcodeproj",
+        "identifier" : "B3249A3A2C9A93BC00045979",
+        "name" : "SwiftTestingExampleTests"
+      }
+    }
+  ],
+  "version" : 1
+}
